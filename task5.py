@@ -1,3 +1,4 @@
+
 any_list = [1,0,-1,-2,3,4,0,0,-4,-6,-8]
 
 def count(any_list):
