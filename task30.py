@@ -1,0 +1,10 @@
+a = float(input())
+b = float(input())
+c = float(input())
+d = float(input())
+
+print(min(a,b,c,d), max(a,b,c,d))
+print(abs(a))
+print(abs(b))
+print(abs(c))
+print(abs(d))
